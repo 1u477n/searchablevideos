@@ -7,6 +7,27 @@ export const videos = [
     thumbnail: "https://img.youtube.com/vi/Ke90Tje7VS0/mqdefault.jpg"
   },
   {
+    id: 7,
+    title: "Learn React in One Hour",
+    description: "Buid Front-end Apps with this tutorial",
+    url: "hhttps://www.youtube.com/watch?v=SqcY0GlETPk",
+    thumbnail: "https://img.youtube.com/vi/SqcY0GlETPk/mqdefault.jpg"
+  },
+  {
+    id: 6,
+    title: "React Full Course - Beginner to Pro",
+    description: "Build websites and projects with React.",
+    url: "https://www.youtube.com/watch?v=TtPXvEcE11E",
+    thumbnail: "https://img.youtube.com/vi/TtPXvEcE11E/mqdefault.jpg"
+  },
+  {
+    id: 8,
+    title: "React JS 19 Full Course 2025",
+    description: "BBuild an App and Master React in 2 Hours",
+    url: "https://www.youtube.com/watch?v=dCLhUialKPQ",
+    thumbnail: "https://img.youtube.com/vi/dCLhUialKPQ/mqdefault.jpg"
+  },
+  {
     id: 2,
     title: "Advanced React Patterns",
     description: "Dive into advanced React concepts and best practices.",
