@@ -1,0 +1,39 @@
+.video-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+  border-radius: 12px;
+  padding: 10px;
+  margin: 10px 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.video-info {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.video-text h3 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+  color: #1e293b;
+}
+
+.video-text p {
+  margin: 4px 0 0;
+  color: #64748b;
+  font-size: 14px;
+}
+
+.video-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.video-link:hover h3 {
+  text-decoration: underline;
+}
+
