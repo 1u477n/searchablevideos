@@ -23,7 +23,7 @@ export const videos = [
   {
     id: 8,
     title: "React JS 19 Full Course 2025",
-    description: "BBuild an App and Master React in 2 Hours",
+    description: "Build an App and Master React in 2 Hours",
     url: "https://www.youtube.com/watch?v=dCLhUialKPQ",
     thumbnail: "https://img.youtube.com/vi/dCLhUialKPQ/mqdefault.jpg"
   },
